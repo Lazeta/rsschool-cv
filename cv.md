@@ -4,11 +4,12 @@
 
 ----------------------------------------------------
 ### contact information:
-**Phone:** +375(33)3086965
-**E-mail:** mark6twen@gmail.com
-**Telegram:** [telegram profile](https://t.me/Zam_contentos)
-**LinkedIn:** Venchur Potaki
-**Discord:** ℤ𝕒𝕞#3735
+
+>**Phone:** +375(33)3086965
+>**E-mail:** mark6twen@gmail.com
+>**Telegram:** [telegram profile](https://t.me/Zam_contentos)
+>**LinkedIn:** Venchur Potaki
+>**Discord:** ℤ𝕒𝕞#3735
 
 -----------------------------------------------------
 ### Briefly About Myself:
