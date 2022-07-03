@@ -2,12 +2,10 @@
 
 ## Junior Frontend Developer ##
 
-## contact information
+## contact information:
 
-**Phone:** +375(33)3086965.
-
-**E-mail:** mark6twen@gmail.com.
-
+**Phone:** +375(33)3086965.<br />
+**E-mail:** mark6twen@gmail.com.<br />
 **Telegram:** [telegram profile](https://t.me/Zam_contentos).
 
 **LinkedIn:** Venchur Potaki.
