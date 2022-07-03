@@ -2,18 +2,17 @@
 ### Junior Frontend Developer ###
 ![Неверно указан путь или был изменён путь к файлу](https://scontent.fmsq4-1.fna.fbcdn.net/v/t1.6435-9/58933209_294724551464304_1445828863920701440_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=jjw4xwvX3lAAX8Nn_XE&_nc_ht=scontent.fmsq4-1.fna&oh=00_AT8_iRXpcsv4-cpKu4Hi2igQOw-DAiZ2Kcu4026y3rkF3Q&oe=62E8FC9A "my avatar")
 ----------------------------------------------------
-----------------------------------------------------
 ### contact information:
->**Phone:** +375(33)3086965
->**E-mail:** mark6twen@gmail.com
->**Telegram:** [telegram profile](https://t.me/Zam_contentos)
->**LinkedIn:** Venchur Potaki
->**Discord:** ℤ𝕒𝕞#3735
+**Phone:** +375(33)3086965
+**E-mail:** mark6twen@gmail.com
+**Telegram:** [telegram profile](https://t.me/Zam_contentos)
+**LinkedIn:** Venchur Potaki
+**Discord:** ℤ𝕒𝕞#3735
 -----------------------------------------------------
 ### Briefly About Myself:
 
-    I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
-    I can sit on the code for a long time in an attempt to improve or fix it. The main skill that helps me in IT is the ability to google. The main goal is to work remotely at the computer as I like and travel freely around the world if possible
+I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
+I can sit on the code for a long time in an attempt to improve or fix it. The main skill that helps me in IT is the ability to google. The main goal is to work remotely at the computer as I like and travel freely around the world if possible
 -----------------------------------------------------
 ### Skills and Proficiency:
 
