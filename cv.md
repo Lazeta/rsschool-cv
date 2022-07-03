@@ -1,7 +1,7 @@
 # Stas Chekh #
--------
+
 ## Junior Frontend Developer ##
---------
+
 ## contact information
 
 **Phone:** +375(33)3086965.
