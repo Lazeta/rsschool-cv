@@ -11,7 +11,7 @@
     <strong>E-mail:</strong> <a href="mailto:mark6twen@gmail.com">mark6twen@gmail.com</a><br>
     <strong>Telegram:</strong> <a href="https://t.me/Zam_contentos">telegram profile</a><br>
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/finlife-apilog-307069167/">Venchur Potaki</a><br>
-    <strong>Discord:</strong> <a href="https://discord.com/channels/@567955238225444866">ℤ𝕒𝕞#3735</a></p>
+    <strong>Discord:</strong> <a href="https://discordapp.com/users/567955238225444866/">ℤ𝕒𝕞#3735</a></p>
 </blockquote>
 
 -----------------------------------------------------
