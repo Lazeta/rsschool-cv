@@ -5,11 +5,18 @@
 ----------------------------------------------------
 ### contact information:
 
->**Phone:** +375(33)3086965
->**E-mail:** mark6twen@gmail.com
->**Telegram:** [telegram profile](https://t.me/Zam_contentos)
->**LinkedIn:** Venchur Potaki
->**Discord:** Zam#3735
+<blockquote>
+<p class="has-line-data" data-line-start="6" data-line-end="11"><strong>Phone:</strong> +375(33)3086965<br>
+<strong>E-mail:</strong> <a href="mailto:mark6twen@gmail.com">mark6twen@gmail.com</a><br>
+<strong>Telegram:</strong> <a href="https://t.me/Zam_contentos">telegram profile</a><br>
+<strong>LinkedIn:</strong> Venchur Potaki<br>
+<strong>Discord:</strong> Zam#3735</p>
+</blockquote>
+<!-- >**Phone:** +375(33)3086965
+**E-mail:** mark6twen@gmail.com
+**Telegram:** [telegram profile](https://t.me/Zam_contentos)
+**LinkedIn:** Venchur Potaki
+**Discord:** ℤ𝕒𝕞#3735 -->
 
 -----------------------------------------------------
 ### Briefly About Myself:
