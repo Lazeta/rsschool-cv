@@ -1,10 +1,29 @@
-1. **Stas Chekh**
-2. *contact: fkrjcjdjifkdgdjsjjfmknckdnc@gmail.com \ phone: +38025505666*
-3. About me: 
+1. #  Stas Chekh #
+## Junior Frontend Developer ##
+---
+2. ## contact information: ## 
+**Phone:** +375(33)3086965
+**E-mail:** mark6twen@gmail.com
+**Telegram:** [telegram profile](https://t.me/Zam_contentos)
+**LinkedIn:** Venchur Potaki
+**Discord:** ℤ𝕒𝕞#3735
+---
+3. ## Briefly About Myself: ## 
 I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
+
+![Неверно указан путь или был изменён путь к файлу](F://fhoto/2022/58933209_294724551464304_1445828863920701440_n.jpg "моя аватарка")
+
 I can sit on the code for a long time in an attempt to improve or fix it. The main skill that helps me in IT is the ability to google. The main goal is to work remotely at the computer as I like and travel freely around the world if possible.
-4. HTML markup, CSS , Python, Adaptive Layout, development telegram bot. I can work with: Visual Studio Code, Sublime Text 3, Windows Terminal, CMD, PowerShell, IDLE, IDE, Pycharm. I can work with Google, Opera, Mozila Firefox.
-5. ``
+---
+4. ## Skills and Proficiency: ## 
+* HTML5, CSS3 : markup, adaptive layout
+* Python : Development telegram bot, games
+* Visual Studio Code, Sublime Text 3, IDLE, IDE, Pycharm
+* Windows Terminal, CMD, PowerShell
+* I can work with Google, Opera, Mozila Firefox.
+---
+5. ## Code Example: ##
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,8 +82,19 @@ I can sit on the code for a long time in an attempt to improve or fix it. The ma
     </style>
 </body>
 </html>
-``
-
-6. Junior Dev. I'm study FructCode and RS-school. 
-7. Frontent Developer
-8. I know English language - A2
+```
+---
+6. # Courses: # 
+* HTML and CSS Course on the FructCode and RS-school (completed)
+* RS-school Course "JavaScript/Front-end. Stage 0" (in progress)
+* Грокаем Алгоритмы "Python" (completed)
+* <https://pythonworld.ru/samouchitel-python> "Python 3" (completed)
+---
+8. ## Languages: ##
+* Russian - Native
+* Belarusian - Intermediate
+* Ukrainian - Intermediate
+* English - Basic
+* Polish - Basic
+* Chech - Basic
+* Slovak - Basic
