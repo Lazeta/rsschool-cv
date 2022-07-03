@@ -1,32 +1,29 @@
-# Stas Chekh #
+# Stas Chekh #    
+### Junior Frontend Developer ###
+![Неверно указан путь или был изменён путь к файлу](https://scontent.fmsq4-1.fna.fbcdn.net/v/t1.6435-9/58933209_294724551464304_1445828863920701440_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=jjw4xwvX3lAAX8Nn_XE&_nc_ht=scontent.fmsq4-1.fna&oh=00_AT8_iRXpcsv4-cpKu4Hi2igQOw-DAiZ2Kcu4026y3rkF3Q&oe=62E8FC9A "my avatar")
+----------------------------------------------------
+----------------------------------------------------
+### contact information:
+>**Phone:** +375(33)3086965
+>**E-mail:** mark6twen@gmail.com
+>**Telegram:** [telegram profile](https://t.me/Zam_contentos)
+>**LinkedIn:** Venchur Potaki
+>**Discord:** ℤ𝕒𝕞#3735
+-----------------------------------------------------
+### Briefly About Myself:
 
-## Junior Frontend Developer ##
-
-## contact information:
-
-**Phone:** +375(33)3086965.<br />
-**E-mail:** mark6twen@gmail.com.<br />
-**Telegram:** [telegram profile](https://t.me/Zam_contentos).<br />
-**LinkedIn:** Venchur Potaki.<br />
-**Discord:** ℤ𝕒𝕞#3735
---------
-## Briefly About Myself
-
-I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
-
-![Неверно указан путь или был изменён путь к файлу](F:/fhoto/2022/58933209_294724551464304_1445828863920701440_n.jpg "моя аватарка")
-
-I can sit on the code for a long time in an attempt to improve or fix it. The main skill that helps me in IT is the ability to google. The main goal is to work remotely at the computer as I like and travel freely around the world if possible
---------
-## Skills and Proficiency
+    I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
+    I can sit on the code for a long time in an attempt to improve or fix it. The main skill that helps me in IT is the ability to google. The main goal is to work remotely at the computer as I like and travel freely around the world if possible
+-----------------------------------------------------
+### Skills and Proficiency:
 
 * HTML5, CSS3 : markup, adaptive layout
 * Python : Development telegram bot, games
 * Visual Studio Code, Sublime Text 3, IDLE, IDE, Pycharm
 * Windows Terminal, CMD, PowerShell
 * I can work with Google, Opera, Mozila Firefox.
---------
-## Code Example
+-----------------------------------------------------
+### Code Example:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -36,6 +33,7 @@ I can sit on the code for a long time in an attempt to improve or fix it. The ma
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>example_code</title>
 </head>
+
 <body>
 
     <div class="transfusion-of-color">transfusion of color these words</div>
@@ -87,14 +85,15 @@ I can sit on the code for a long time in an attempt to improve or fix it. The ma
 </body>
 </html>
 ```
-## Courses
+--------------------------------------------------------------------
+### Courses:
 
 * HTML and CSS Course on the FructCode and RS-school (completed)
 * RS-school Course "JavaScript/Front-end. Stage 0" (in progress)
 * Грокаем Алгоритмы "Python" (completed)
 * <<https://pythonworld.ru/samouchitel-python>> "Python 3" (completed)
---------
-## Languages
+--------------------------------------------------------------------
+### Languages:
 
 * Russian - Native
 * Belarusian - Intermediate
