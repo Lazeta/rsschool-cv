@@ -11,7 +11,7 @@
 -----------------------------------------------------
 ### Briefly About Myself:
 
-I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
+I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.<br/>
 I can sit on the code for a long time in an attempt to improve or fix it. The main skill that helps me in IT is the ability to google. The main goal is to work remotely at the computer as I like and travel freely around the world if possible
 -----------------------------------------------------
 ### Skills and Proficiency:
