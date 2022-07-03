@@ -6,17 +6,13 @@
 ### contact information:
 
 <blockquote>
-<p class="has-line-data" data-line-start="6" data-line-end="11"><strong>Phone:</strong> +375(33)3086965<br>
-<strong>E-mail:</strong> <a href="mailto:mark6twen@gmail.com">mark6twen@gmail.com</a><br>
-<strong>Telegram:</strong> <a href="https://t.me/Zam_contentos">telegram profile</a><br>
-<strong>LinkedIn:</strong> Venchur Potaki<br>
-<strong>Discord:</strong> Zam#3735</p>
+    <p class="has-line-data" data-line-start="6"
+    data-line-end="11"><strong>Phone:</strong> +375(33)3086965<br>
+    <strong>E-mail:</strong> <a href="mailto:mark6twen@gmail.com">mark6twen@gmail.com</a><br>
+    <strong>Telegram:</strong> <a href="https://t.me/Zam_contentos">telegram profile</a><br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/finlife-apilog-307069167/">Venchur Potaki</a><br>
+    <strong>Discord:</strong> <a href="https://discord.com/channels/@567955238225444866">ℤ𝕒𝕞#3735</a></p>
 </blockquote>
-<!-- >**Phone:** +375(33)3086965
-**E-mail:** mark6twen@gmail.com
-**Telegram:** [telegram profile](https://t.me/Zam_contentos)
-**LinkedIn:** Venchur Potaki
-**Discord:** ℤ𝕒𝕞#3735 -->
 
 -----------------------------------------------------
 ### Briefly About Myself:
