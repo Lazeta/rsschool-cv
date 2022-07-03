@@ -6,10 +6,8 @@
 
 **Phone:** +375(33)3086965.<br />
 **E-mail:** mark6twen@gmail.com.<br />
-**Telegram:** [telegram profile](https://t.me/Zam_contentos).
-
-**LinkedIn:** Venchur Potaki.
-
+**Telegram:** [telegram profile](https://t.me/Zam_contentos).<br />
+**LinkedIn:** Venchur Potaki.<br />
 **Discord:** ℤ𝕒𝕞#3735
 --------
 ## Briefly About Myself
