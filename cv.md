@@ -1,15 +1,22 @@
 #  Stas Chekh #
-========
+
+-------
+
 ## Junior Frontend Developer ##
 --------
 ## contact information:
 **Phone:** +375(33)3086965.
+
 **E-mail:** mark6twen@gmail.com.
+
 **Telegram:** [telegram profile](https://t.me/Zam_contentos).
+
 **LinkedIn:** Venchur Potaki.
+
 **Discord:** ℤ𝕒𝕞#3735
 
----
+--------
+
 ## Briefly About Myself:
 I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
 
