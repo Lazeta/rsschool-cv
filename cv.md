@@ -1,28 +1,32 @@
-1. #  Stas Chekh #
+#  Stas Chekh #
+========
 ## Junior Frontend Developer ##
----
-2. ## contact information: ## 
-**Phone:** +375(33)3086965
-**E-mail:** mark6twen@gmail.com
-**Telegram:** [telegram profile](https://t.me/Zam_contentos)
-**LinkedIn:** Venchur Potaki
+--------
+## contact information:
+**Phone:** +375(33)3086965.
+**E-mail:** mark6twen@gmail.com.
+**Telegram:** [telegram profile](https://t.me/Zam_contentos).
+**LinkedIn:** Venchur Potaki.
 **Discord:** ℤ𝕒𝕞#3735
+
 ---
-3. ## Briefly About Myself: ## 
+## Briefly About Myself:
 I aspire to become a professional in JS, HTML, CSS, Python. It is important for me to be able to make websites well, maintain them, debug them, develop applications, make bots, parsers and much more that programming languages are capable of.
 
 ![Неверно указан путь или был изменён путь к файлу](F://fhoto/2022/58933209_294724551464304_1445828863920701440_n.jpg "моя аватарка")
 
 I can sit on the code for a long time in an attempt to improve or fix it. The main skill that helps me in IT is the ability to google. The main goal is to work remotely at the computer as I like and travel freely around the world if possible.
----
-4. ## Skills and Proficiency: ## 
+
+--------
+## Skills and Proficiency:
 * HTML5, CSS3 : markup, adaptive layout
 * Python : Development telegram bot, games
 * Visual Studio Code, Sublime Text 3, IDLE, IDE, Pycharm
 * Windows Terminal, CMD, PowerShell
 * I can work with Google, Opera, Mozila Firefox.
----
-5. ## Code Example: ##
+
+--------
+## Code Example:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -83,14 +87,14 @@ I can sit on the code for a long time in an attempt to improve or fix it. The ma
 </body>
 </html>
 ```
----
-6. # Courses: # 
+## Courses:
 * HTML and CSS Course on the FructCode and RS-school (completed)
 * RS-school Course "JavaScript/Front-end. Stage 0" (in progress)
 * Грокаем Алгоритмы "Python" (completed)
 * <https://pythonworld.ru/samouchitel-python> "Python 3" (completed)
----
-8. ## Languages: ##
+
+--------
+## Languages:
 * Russian - Native
 * Belarusian - Intermediate
 * Ukrainian - Intermediate
