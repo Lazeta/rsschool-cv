@@ -17,7 +17,6 @@ body {
 }
 
 .logo {
-  background-image: url("avatar.png");
   background-position: left;
   background-repeat: no-repeat;
   width: 100%;
