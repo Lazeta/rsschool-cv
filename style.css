@@ -62,12 +62,12 @@ p {
 
 
 .wrapper {
-  min-width: 375px;
+  /* min-width: 375px; */
 }
 
 .container {
   margin: 0 0;
-  padding: 0 0;
+  padding: 0 10px;
 }
 
 .wrapper__header {
