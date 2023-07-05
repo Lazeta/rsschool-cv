@@ -62,7 +62,7 @@ p {
 
 
 .wrapper {
-  min-width: 375px;
+  min-width: 420px;
 }
 
 .container {
@@ -101,7 +101,6 @@ p {
 
 header {
   min-height: 80px;
-  max-height: 95px;
   background: #201d1b;
 }
 
