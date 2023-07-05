@@ -307,12 +307,14 @@ textarea.code-example-view {
   justify-content: space-between;
   flex-flow: column nowrap;
   position: relative;
+  align-items: left;
+  padding: 1.5em 1em 2em 1em;
 }
 
 .about-me {
   max-width: 500px;
   min-height: 250px;
-  padding: 1.5em 4em 1em 1em;
+  padding: 1em 0em 0em 0em;
 }
 
 .about-me p {
@@ -327,8 +329,8 @@ textarea.code-example-view {
 }
 
 .skills {
-  padding: 1.5em 4em 1em 1em;
   line-height: 1.5em;
+  padding: 1em 0em 0em 0em;
 }
 
 .skills li {
@@ -344,8 +346,8 @@ textarea.code-example-view {
 }
 
 .projects {
-  padding: 1.5em 4em 1em 1em;
   line-height: 1.5em;
+  padding: 1em 0em 0em 0em;
 }
 
 .projects li {
