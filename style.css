@@ -102,7 +102,7 @@ p {
 header {
   min-height: 80px;
   max-height: 95px;
-  background: rgb(32, 29, 27);
+  background: #201d1b;
 }
 
 .header__ul {
@@ -124,7 +124,7 @@ header {
 
 .header__ul a {
   text-decoration: none;
-  color: rgba(223, 52, 52, 0.836);
+  color: #df3434d5;
 }
 
 .header__ul li a:hover {
