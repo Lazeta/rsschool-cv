@@ -1,17 +1,19 @@
-@media (max-width: 768px) {
+@media (max-width: 799px) {
+    @media (max-width: 799px) {
+    
+    }
     .wrapper__header {
         padding: 0 15px 0 15px;
         min-width: 320px;
         display: flex;
         flex-flow: wrap;
-        text-align: left;
+        text-align: center;
     }
     .header__ul li {
         margin-top: 25px;
         padding: 0 1.5em;
     }
     .wrapper__main {
-        min-width: 350px;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -26,18 +28,23 @@
         flex-wrap: wrap;
     }
     textarea.code-example-view {
-        max-width: 400px;
+        margin: 0;
+        max-width: 420px;
         border: solid 4px rgba(26, 26, 29);
         background: rgba(90, 54, 37, 0.527);
         color: rgba(226, 173, 13, 0.979);
+        left: 0;
     }
     .container__content {
-        max-width: 480px;
+        margin: 0;
+        max-width: 420px;
+        /* min-width: 350px; */
         background: rgba(24, 24, 34, 0.699);
         display: flex;
         justify-content: space-between;
         flex-flow: column nowrap;
         position: relative;
+        left: 0;
     }
     .container__example { 
         opacity: 80%;

@@ -33,6 +33,7 @@
         display: flex;
         flex-flow: row wrap;
         align-items: stretch;
+        left: 25%;
     }
 
     textarea.code-example-view {
@@ -44,7 +45,7 @@
 
     .container__content {
         max-width: 400px;
-        width: 371px;
+        min-width: 380px;
         background: rgba(24, 24, 34, 0.699);
         display: flex;
         justify-content: space-between;
